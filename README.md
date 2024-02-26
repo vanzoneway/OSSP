@@ -6,6 +6,6 @@ Here are all the laboratory works on OSSP that were done by me during my studies
 
 
 ## Laboratory work
-[**Lab1**](https://github.com/vanzoneway/OSSP/tree/master/Lab1)
-[**Lab2**](https://github.com/vanzoneway/OSSP/tree/master/Lab2)
+- **[Lab1](https://github.com/vanzoneway/OSSP/tree/master/Lab1)**
+- **[Lab2](https://github.com/vanzoneway/OSSP/tree/master/Lab2)**
 
