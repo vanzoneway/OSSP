@@ -119,9 +119,8 @@ void print_env_third(const char filename[])
 int main(int argc, char* argv[], char* envp[]) {
 
     environ = envp;
-
     char new_proc_name[100];
-    char q;
+   char q;
 
     sprintf(new_proc_name,"child_%s",argv[1]);
     argv[0] = new_proc_name;
