@@ -19,3 +19,5 @@ Here are all the laboratory works on OSSP that were done by me during my studies
     - [sigaction()](http://man.yolinux.com/cgi-bin/man2html?cgi_command=sigaction) - POSIX signal handling functions.
     - [kill()](http://man.yolinux.com/cgi-bin/man2html?cgi_command=kill) - Terminate a process or send a signal.
 - [Lab4](https://github.com/vanzoneway/OSSP/tree/master/Lab4)
+- [Lab5_1](https://github.com/vanzoneway/OSSP/tree/master/Lab5_1)
+- [Lab5_2](https://github.com/vanzoneway/OSSP/tree/master/Lab5_2)
